@@ -1,4 +1,6 @@
-# EXERCISE 01
+# COURSE: https://andrej-rakic.gitbook.io/chainlink-ccip/ccip-masterclass/exercise-1-transfer-tokens
+
+## EXERCISE 01
 
 CCIPTokenSender: 0xb03d34f797c691d2AD9588d8A6E2697720d9e433
 
