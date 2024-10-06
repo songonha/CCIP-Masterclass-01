@@ -35,6 +35,6 @@ https://ccip.chain.link/msg/0x913ea4e8fee0fe484fb3274a05af471eaf82f249959fea4acc
 
 SEPOLIA CCIP Send Token to Amoy:
 
-FUJI CCIP Send Token to Sepolia:
+FUJI CCIP Send Token to Sepolia: (Gaslimit)
 
 
