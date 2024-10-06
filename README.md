@@ -21,12 +21,15 @@ https://sepolia.etherscan.io/address/0xe9f15aa7f12dcb8cbcf59d5ea0c141278977abdb#
 
 ### ARBITRUM SEPOLIA ( Chain selector: 3478487238524512106 )
 
+## SENDING TIME: 
+
 CCIP Send Token to Fuji:
 
 https://ccip.chain.link/msg/0xa569d41ed93e56a8e8e4edd5f05889f2eff01440992bc712c16c79ad181f17c0
 
 CCIP Send Token To Arbitrum Sepolia:
 
+https://ccip.chain.link/msg/0x913ea4e8fee0fe484fb3274a05af471eaf82f249959fea4acc58b7d0dcb9db51
 
 CCIP Send Token to Amoy:
 
