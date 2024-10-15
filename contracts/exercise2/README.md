@@ -9,5 +9,5 @@ https://www.oklink.com/amoy/address/0x8d4098c6652ff372f158edb1ceabfb5320d65598/c
 
 ## RECEIVER SEPOLIA CONTRACT
 
-Contructor (Price): 
+Contructor (Price): 100
 
