@@ -15,7 +15,7 @@ https://testnet.snowtrace.io/address/0x88eF1a9c14046e4f9DA2B9b95C741FdD23B56C63
 2/ whitelistChain (Ethereum Sepolia): 16015286601757825753
 
 
-### RECEIVER CONTRACT (ETHEREUM SEPOLIA): 0xa63d6b21cb7f53da32cb11eea643d07de783194f
+#### RECEIVER CONTRACT (ETHEREUM SEPOLIA): 0xa63d6b21cb7f53da32cb11eea643d07de783194f
 
 https://sepolia.etherscan.io/address/0xa63d6b21cb7f53da32cb11eea643d07de783194f#code
 
@@ -62,7 +62,7 @@ https://sepolia.etherscan.io/address/0x3763aae80d9709c3af58115acd8bbc6fccb83892
 2c/ whitelistChain (BSC): 13264668187771770619
 
 
-### RECEIVER CONTRACT (AVALANCHE FUJI): 0xee560d18109bcBd0a88cEC1784Cb1B68b4e334c8
+###  2B1 RECEIVER CONTRACT (AVALANCHE FUJI): 0xee560d18109bcBd0a88cEC1784Cb1B68b4e334c8
 
 https://testnet.snowtrace.io/address/0xee560d18109bcBd0a88cEC1784Cb1B68b4e334c8
 
@@ -92,4 +92,30 @@ https://ccip.chain.link/#/side-drawer/msg/0xd95c73327c21a499bd890867aa781d25746e
 
 https://ccip.chain.link/#/side-drawer/msg/0x1622f5083504d03bb6f6b931fe17d3d58d8d364f03e289d207dff07df33b3ac2
 
+=============================================
 
+###  2B2 RECEIVER CONTRACT (AMOY): 
+
+
+
+#### Router address: 
+
+#### Price: 100
+
+3/ whitelistSender (sender contract): 
+
+4/ whitelistSourceChain (SEPOLIA): 
+
+##### 5/ TransferToken:
+
+5a/ TransferToken to AMOY: 
+
+destinationChainSelector (AMOY): 
+
+receiver (contract): 
+
+token (CCIP_BnM): 
+
+amount: 100
+
+Transaction:
