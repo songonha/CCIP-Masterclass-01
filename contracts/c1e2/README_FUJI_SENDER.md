@@ -20,35 +20,33 @@
 
 2d/ whitelistChain (SEPOLIA): 16015286601757825753
 
-###  2B1 RECEIVER CONTRACT (AVALANCHE FUJI): 0xee560d18109bcBd0a88cEC1784Cb1B68b4e334c8
+###  RECEIVER CONTRACT (SEPOLIA): 
 
-https://testnet.snowtrace.io/address/0xee560d18109bcBd0a88cEC1784Cb1B68b4e334c8
+
 
 #### Router address: 
 
 #### Price: 100
 
-3/ whitelistSender (sender contract): 0x3763AAe80d9709c3af58115ACD8Bbc6fCcb83892
+3/ whitelistSender (sender contract): 
 
-4/ whitelistSourceChain (SEPOLIA): 14767482510784806043
+4/ whitelistSourceChain (SEPOLIA): 16015286601757825753
 
 ##### 5/ TransferToken:
 
-5a/ TransferToken to FUJI: 
+5a/ TransferToken to SEPOLIA: 
 
-destinationChainSelector (FUJI): 14767482510784806043
+destinationChainSelector (SEPOLIA): 16015286601757825753
 
-receiver (contract): 0xee560d18109bcBd0a88cEC1784Cb1B68b4e334c8
+receiver (contract): 
 
-token (CCIP_BnM): 0xFd57b4ddBf88a4e07fF4e34C487b99af2Fe82a05
+token (CCIP_BnM): 
 
 amount: 100
 
 Transaction:
 
-https://ccip.chain.link/#/side-drawer/msg/0xd95c73327c21a499bd890867aa781d25746ecb59b5685497a3b566832be794dc
 
-https://ccip.chain.link/#/side-drawer/msg/0x1622f5083504d03bb6f6b931fe17d3d58d8d364f03e289d207dff07df33b3ac2
 
 =============================================
 
@@ -60,19 +58,19 @@ https://www.oklink.com/vi/amoy/address/0xb6843ba34c706fa1687a5b7ee99e25d19d3910d
 
 #### Price: 100
 
-3/ whitelistSender (sender contract): 0x3763AAe80d9709c3af58115ACD8Bbc6fCcb83892
+3/ whitelistSender (sender contract): 
 
-4/ whitelistSourceChain (SEPOLIA): 14767482510784806043
+4/ whitelistSourceChain (FUJI): 
 
 ##### 5/ TransferToken:
 
-5a/ TransferToken to AMOY: (NFT: 0x62C2268290619743D3017ba082a193d5CbDD5bEc)
+5a/ TransferToken to AMOY: (NFT: )
 
 destinationChainSelector (AMOY): 16281711391670634445
 
-receiver (contract): 0xB6843bA34c706Fa1687a5b7EE99E25D19d3910Df
+receiver (contract): 
 
-token (CCIP_BnM adress on Amoy): 0xFd57b4ddBf88a4e07fF4e34C487b99af2Fe82a05
+token (CCIP_BnM adress on Amoy): 0xD21341536c5cF5EB1bcb58f6723cE26e8D8E90e4
 
 amount: 100
 
