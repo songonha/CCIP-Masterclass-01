@@ -78,11 +78,11 @@ https://testnet.snowtrace.io/address/0xee560d18109bcBd0a88cEC1784Cb1B68b4e334c8
 
 5a/ TransferToken to FUJI: 
 
-destinationChainSelector (FUJI): 
+destinationChainSelector (FUJI): 14767482510784806043
 
-receiver (contract): 
+receiver (contract): 0xee560d18109bcBd0a88cEC1784Cb1B68b4e334c8
 
-token (CCIP_BnM): 
+token (CCIP_BnM): 0xFd57b4ddBf88a4e07fF4e34C487b99af2Fe82a05
 
 amount: 100
 
