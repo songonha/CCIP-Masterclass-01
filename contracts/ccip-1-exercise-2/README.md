@@ -23,9 +23,9 @@ https://sepolia.etherscan.io/address/0xa63d6b21cb7f53da32cb11eea643d07de783194f#
 
 #### Price: 100
 
-3/ 
+3/ whitelistSender (sender contract): 0x88eF1a9c14046e4f9DA2B9b95C741FdD23B56C63
 
-4/
+4/ whitelistSourceChain (avalanche fuji): 14767482510784806043
 
 5/ TransferToken:
 
