@@ -10,6 +10,11 @@ https://testnet.snowtrace.io/address/0x88eF1a9c14046e4f9DA2B9b95C741FdD23B56C63
 
 #### LINK: 0x0b9d5D9136855f6FEc3c0993feE6E9CE8a297846
 
+1/ Send 10 LINK to: 0x88eF1a9c14046e4f9DA2B9b95C741FdD23B56C63
+
+2/ whitelistChain (Ethereum Sepolia): 16015286601757825753
+
+
 ### RECEIVER CONTRACT (ETHEREUM SEPOLIA): 0xa63d6b21cb7f53da32cb11eea643d07de783194f
 
 https://sepolia.etherscan.io/address/0xa63d6b21cb7f53da32cb11eea643d07de783194f#code
@@ -17,3 +22,19 @@ https://sepolia.etherscan.io/address/0xa63d6b21cb7f53da32cb11eea643d07de783194f#
 #### Router address: 0x0BF3dE8c5D3e8A2B34D2BEeB17ABfCeBaf363A59
 
 #### Price: 100
+
+3/ 
+
+4/
+
+5/ TransferToken:
+
+destinationChainSelector (ethereum sepolia): 16015286601757825753
+
+receiver (contract): 0xA63D6B21Cb7F53Da32cB11EEa643d07De783194f
+
+token (CCIP_BnM): 0xD21341536c5cF5EB1bcb58f6723cE26e8D8E90e4
+
+amount: 100
+
+
