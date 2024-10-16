@@ -62,21 +62,23 @@ https://sepolia.etherscan.io/address/0x3763aae80d9709c3af58115acd8bbc6fccb83892
 2c/ whitelistChain (BSC): 13264668187771770619
 
 
-### RECEIVER CONTRACT (AVALANCHE FUJI): 0xf23a0ff715256f71255c419162FfAb3646f771Fe
+### RECEIVER CONTRACT (AVALANCHE FUJI): 0xee560d18109bcBd0a88cEC1784Cb1B68b4e334c8
 
-https://testnet.snowtrace.io/address/0xf23a0ff715256f71255c419162FfAb3646f771Fe
+https://testnet.snowtrace.io/address/0xee560d18109bcBd0a88cEC1784Cb1B68b4e334c8
 
 #### Router address: 
 
 #### Price: 100
 
-3/ whitelistSender (sender contract): 
+3/ whitelistSender (sender contract): 0x3763AAe80d9709c3af58115ACD8Bbc6fCcb83892
 
-4/ whitelistSourceChain (avalanche fuji): 
+4/ whitelistSourceChain (SEPOLIA): 14767482510784806043
 
-5/ TransferToken:
+##### 5/ TransferToken:
 
-destinationChainSelector (ethereum sepolia): 
+5a/ TransferToken to FUJI: 
+
+destinationChainSelector (FUJI): 
 
 receiver (contract): 
 
@@ -84,4 +86,4 @@ token (CCIP_BnM):
 
 amount: 100
 
-6/ Transaction:
+Transaction:
