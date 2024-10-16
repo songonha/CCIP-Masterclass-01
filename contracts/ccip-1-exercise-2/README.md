@@ -86,4 +86,8 @@ token (CCIP_BnM): 0xFd57b4ddBf88a4e07fF4e34C487b99af2Fe82a05
 
 amount: 100
 
-Transaction:
+Transaction 1:
+
+https://ccip.chain.link/#/side-drawer/msg/0xd95c73327c21a499bd890867aa781d25746ecb59b5685497a3b566832be794dc
+
+
