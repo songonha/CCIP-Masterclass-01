@@ -40,7 +40,7 @@ destinationChainSelector (SEPOLIA): 16015286601757825753
 
 receiver (contract): 
 
-token (CCIP_BnM): 
+token (CCIP_BnM): 0xD21341536c5cF5EB1bcb58f6723cE26e8D8E90e4
 
 amount: 100
 
