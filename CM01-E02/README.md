@@ -28,7 +28,7 @@
 
 ##### 5/ TransferToken:
 
-5a/ TransferToken to SEPOLIA: 
+5a/ TransferToken from FUJI to SEPOLIA: 
 
 destinationChainSelector (SEPOLIA): 16015286601757825753
 
