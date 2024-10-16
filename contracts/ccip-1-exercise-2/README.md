@@ -37,4 +37,43 @@ token (CCIP_BnM): 0xD21341536c5cF5EB1bcb58f6723cE26e8D8E90e4
 
 amount: 100
 
+6/ Transaction:  Fail (Gaslimit)
 
+======================================================
+
+### SENDER CONTRACT (ETHEREUM SEPOLIA): 
+
+
+
+#### Router address:	
+
+#### LINK: 
+
+1/ Send 10 LINK to: 
+
+2/ whitelistChain (Ethereum Sepolia): 
+
+
+### RECEIVER CONTRACT (AVALANCHE FUJI): 
+
+
+
+#### Router address: 
+
+#### Price: 100
+
+3/ whitelistSender (sender contract): 
+
+4/ whitelistSourceChain (avalanche fuji): 
+
+5/ TransferToken:
+
+destinationChainSelector (ethereum sepolia): 
+
+receiver (contract): 
+
+token (CCIP_BnM): 
+
+amount: 100
+
+6/ Transaction:
