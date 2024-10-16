@@ -55,7 +55,7 @@ https://sepolia.etherscan.io/address/0x3763aae80d9709c3af58115acd8bbc6fccb83892
 
 1a/ Send 0.1 CCIP_BnM to: 0x3763AAe80d9709c3af58115ACD8Bbc6fCcb83892
 
-2/ whitelistChain (FUJI): 
+2/ whitelistChain (FUJI): 14767482510784806043
 
 
 ### RECEIVER CONTRACT (AVALANCHE FUJI): 0xf23a0ff715256f71255c419162FfAb3646f771Fe
