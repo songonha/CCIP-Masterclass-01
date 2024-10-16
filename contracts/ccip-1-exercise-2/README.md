@@ -114,7 +114,7 @@ destinationChainSelector (AMOY): 16281711391670634445
 
 receiver (contract): 0xB6843bA34c706Fa1687a5b7EE99E25D19d3910Df
 
-token (CCIP_BnM): 0xFd57b4ddBf88a4e07fF4e34C487b99af2Fe82a05
+token (CCIP_BnM adress on Amoy): 0xFd57b4ddBf88a4e07fF4e34C487b99af2Fe82a05
 
 amount: 100
 
