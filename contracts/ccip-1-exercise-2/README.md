@@ -53,12 +53,14 @@ amount: 100
 
 1/ Send 10 LINK to: 
 
+1a/ Send 0.1 CCIP_BnM to: 
+
 2/ whitelistChain (Ethereum Sepolia): 
 
 
-### RECEIVER CONTRACT (AVALANCHE FUJI): 
+### RECEIVER CONTRACT (AVALANCHE FUJI): 0xf23a0ff715256f71255c419162FfAb3646f771Fe
 
-
+https://testnet.snowtrace.io/address/0xf23a0ff715256f71255c419162FfAb3646f771Fe
 
 #### Router address: 
 
