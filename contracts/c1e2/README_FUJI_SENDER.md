@@ -30,7 +30,7 @@ https://sepolia.etherscan.io/address/0x6309Fc95AC145596C83Eb6cff67b61821725EE07#
 
 3/ whitelistSender (sender contract): 0x06Ccb4a813ac5Cd36D5eCb96bf9ca7D0c01CF9E2
 
-4/ whitelistSourceChain (SEPOLIA): 16015286601757825753
+4/ whitelistSourceChain (FUJI): 14767482510784806043
 
 ##### 5/ TransferToken:
 
