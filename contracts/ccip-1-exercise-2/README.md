@@ -94,27 +94,27 @@ https://ccip.chain.link/#/side-drawer/msg/0x1622f5083504d03bb6f6b931fe17d3d58d8d
 
 =============================================
 
-###  2B2 RECEIVER CONTRACT (AMOY): 
+###  2B2 RECEIVER CONTRACT (AMOY): 0xb6843ba34c706fa1687a5b7ee99e25d19d3910df
 
+https://www.oklink.com/vi/amoy/address/0xb6843ba34c706fa1687a5b7ee99e25d19d3910df
 
-
-#### Router address: 
+#### Router address: 0x9C32fCB86BF0f4a1A8921a9Fe46de3198bb884B2
 
 #### Price: 100
 
-3/ whitelistSender (sender contract): 
+3/ whitelistSender (sender contract): 0x3763AAe80d9709c3af58115ACD8Bbc6fCcb83892
 
-4/ whitelistSourceChain (SEPOLIA): 
+4/ whitelistSourceChain (SEPOLIA): 14767482510784806043
 
 ##### 5/ TransferToken:
 
 5a/ TransferToken to AMOY: 
 
-destinationChainSelector (AMOY): 
+destinationChainSelector (AMOY): 16281711391670634445
 
-receiver (contract): 
+receiver (contract): 0xB6843bA34c706Fa1687a5b7EE99E25D19d3910Df
 
-token (CCIP_BnM): 
+token (CCIP_BnM): 0xFd57b4ddBf88a4e07fF4e34C487b99af2Fe82a05
 
 amount: 100
 
