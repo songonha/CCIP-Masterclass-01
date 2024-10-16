@@ -1,1 +1,6 @@
-# ccip-1-exercise-2
+# CCIP 1 - MASTERCLASS
+
+## EXERCISE 2
+
+### SENDER CONTRACT (AVALANCHE FUJI): 
+
