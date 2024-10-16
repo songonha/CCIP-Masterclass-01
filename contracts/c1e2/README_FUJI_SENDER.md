@@ -20,15 +20,15 @@ https://testnet.snowtrace.io/address/0x06Ccb4a813ac5Cd36D5eCb96bf9ca7D0c01CF9E2
 
 2d/ whitelistChain (SEPOLIA): 16015286601757825753
 
-###  RECEIVER CONTRACT (SEPOLIA): 
+###  RECEIVER CONTRACT (SEPOLIA): 0x6309Fc95AC145596C83Eb6cff67b61821725EE07
 
+https://sepolia.etherscan.io/address/0x6309Fc95AC145596C83Eb6cff67b61821725EE07#code
 
-
-#### Router address: 
+#### Router address: 0x0BF3dE8c5D3e8A2B34D2BEeB17ABfCeBaf363A59
 
 #### Price: 100
 
-3/ whitelistSender (sender contract): 
+3/ whitelistSender (sender contract): 0x06Ccb4a813ac5Cd36D5eCb96bf9ca7D0c01CF9E2
 
 4/ whitelistSourceChain (SEPOLIA): 16015286601757825753
 
