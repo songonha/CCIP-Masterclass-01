@@ -1,1 +1,51 @@
 ## CCIP MASTERCLASS 1 - EXERCISE 1
+
+## CCIP 1 - EXERCISE 2: SEND DATA FROM FUJI (FIREFOX) TO ETHEREUM SEPOLIA (CHROME)
+
+### SENDER CONTRACT (FUJI): 0xf39f87F9f50f189bA715E83E6BDA4C1c500Cb685
+
+https://testnet.snowtrace.io/address/0xf39f87F9f50f189bA715E83E6BDA4C1c500Cb685
+
+#### Router address:	0xF694E193200268f9a4868e4Aa017A0118C9a8177
+
+#### LINK: 0x0b9d5D9136855f6FEc3c0993feE6E9CE8a297846
+
+1/ Send 10 LINK to: 0xf39f87F9f50f189bA715E83E6BDA4C1c500Cb685
+
+1a/ Send 0.1 CCIP_BnM to: 0xf39f87F9f50f189bA715E83E6BDA4C1c500Cb685
+
+2/ whitelistChain (SEPOLIA): 16015286601757825753
+
+###  RECEIVER CONTRACT (SEPOLIA): 0x6dAE980614B61289a957b7DE1b4e1D6D137010eb
+
+https://sepolia.etherscan.io/address/0x6dae980614b61289a957b7de1b4e1d6d137010eb
+
+#### Router address: 0x0BF3dE8c5D3e8A2B34D2BEeB17ABfCeBaf363A59
+
+#### Price: 100
+
+3/ whitelistSender (sender contract): 
+
+4/ whitelistSourceChain (FUJI): 14767482510784806043
+
+##### 5/ TransferToken:
+
+5a/ TransferToken from FUJI to SEPOLIA: 
+
+destinationChainSelector (SEPOLIA): 16015286601757825753
+
+receiver (contract): 
+
+token (CCIP_BnM): 0xD21341536c5cF5EB1bcb58f6723cE26e8D8E90e4
+
+amount: 100
+
+Transaction:
+
+
+
+NFT: 
+
+
+
+
