@@ -73,9 +73,11 @@ npx hardhat ttt-move --x 0 --y 1 --player 2 --session-id 0x8f976a1aa42199234b93e
 #### Move 4:
 npx hardhat ttt-move --x 1 --y 2 --player 2 --session-id 0x8f976a1aa42199234b93ea83ac13114e15a8d5218532fbcc2a401f540a5ddffc --source-blockchain avalancheFuji --sender 0x48fBa5197563022709284AAA7d8eb9CcE751C042 --destination-blockchain ethereumSepolia --receiver 0xd61E14AE090e89773e8274869F7b2F75FeC3Aad2
 
+#### Move 6:
+npx hardhat ttt-move --x 2 --y 1 --player 2 --session-id 0x8f976a1aa42199234b93ea83ac13114e15a8d5218532fbcc2a401f540a5ddffc --source-blockchain avalancheFuji --sender 0x48fBa5197563022709284AAA7d8eb9CcE751C042 --destination-blockchain ethereumSepolia --receiver 0xd61E14AE090e89773e8274869F7b2F75FeC3Aad2
 
-
-
+#### Move 6:
+npx hardhat ttt-move --x 0 --y 2 --player 2 --session-id 0x8f976a1aa42199234b93ea83ac13114e15a8d5218532fbcc2a401f540a5ddffc --source-blockchain avalancheFuji --sender 0x48fBa5197563022709284AAA7d8eb9CcE751C042 --destination-blockchain ethereumSepolia --receiver 0xd61E14AE090e89773e8274869F7b2F75FeC3Aad2
 
 ### Player 1 makes a move in Blockchain 1
 
@@ -89,10 +91,10 @@ npx hardhat ttt-move --x 1 --y 1 --player 1 --session-id 0x8f976a1aa42199234b93e
 npx hardhat ttt-move --x 2 --y 2 --player 1 --session-id 0x8f976a1aa42199234b93ea83ac13114e15a8d5218532fbcc2a401f540a5ddffc --source-blockchain ethereumSepolia --sender 0xd61E14AE090e89773e8274869F7b2F75FeC3Aad2 --destination-blockchain avalancheFuji --receiver 0x48fBa5197563022709284AAA7d8eb9CcE751C042
 
 #### Move 7: 
-npx hardhat ttt-move --x 2 --y 2 --player 1 --session-id 0x8f976a1aa42199234b93ea83ac13114e15a8d5218532fbcc2a401f540a5ddffc --source-blockchain ethereumSepolia --sender 0xd61E14AE090e89773e8274869F7b2F75FeC3Aad2 --destination-blockchain avalancheFuji --receiver 0x48fBa5197563022709284AAA7d8eb9CcE751C042
+npx hardhat ttt-move --x 1 --y 0 --player 1 --session-id 0x8f976a1aa42199234b93ea83ac13114e15a8d5218532fbcc2a401f540a5ddffc --source-blockchain ethereumSepolia --sender 0xd61E14AE090e89773e8274869F7b2F75FeC3Aad2 --destination-blockchain avalancheFuji --receiver 0x48fBa5197563022709284AAA7d8eb9CcE751C042
 
 #### Move 9: 
-npx hardhat ttt-move --x 2 --y 2 --player 1 --session-id 0x8f976a1aa42199234b93ea83ac13114e15a8d5218532fbcc2a401f540a5ddffc --source-blockchain ethereumSepolia --sender 0xd61E14AE090e89773e8274869F7b2F75FeC3Aad2 --destination-blockchain avalancheFuji --receiver 0x48fBa5197563022709284AAA7d8eb9CcE751C042
+npx hardhat ttt-move --x 2 --y 0 --player 1 --session-id 0x8f976a1aa42199234b93ea83ac13114e15a8d5218532fbcc2a401f540a5ddffc --source-blockchain ethereumSepolia --sender 0xd61E14AE090e89773e8274869F7b2F75FeC3Aad2 --destination-blockchain avalancheFuji --receiver 0x48fBa5197563022709284AAA7d8eb9CcE751C042
 
 ### Check the winner
 
